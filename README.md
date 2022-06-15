@@ -17,7 +17,7 @@ Ejemplo:
 
 Hemos insertado una nueva imágen!!!
 
-####Recordatorio
+#### Recordatorio
 Los pasos para iniciar un repositorio desde la linea de comando son:
 - git init (Inicia le repositorio de git)
 - git add . (o README.md depende)
