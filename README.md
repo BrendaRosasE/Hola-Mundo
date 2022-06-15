@@ -13,7 +13,7 @@ Aprendamos a insertar una imagen:
 * Agregamos ! [] (Relative path)
 
 Ejemplo:
-![](imagenes\pythonLOGO.png)
+![](Hola-Mundo\imagenes\pythonLOGO.png)
 
 Hemos insertado una nueva imágen!!!
 
