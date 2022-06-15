@@ -31,3 +31,9 @@ Para subir los cambios en tu repositorio:
 - git commit -m "nombre del commit"
 - git push origin main
 
+---
+##### NOTA
+
+Si realizaste cambios en el repositorio desde github primero debes jalar la información para actualizar el archivo en tu computadora:
+
+- git pull (link del repo)
