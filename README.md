@@ -13,7 +13,21 @@ Aprendamos a insertar una imagen:
 * Agregamos ! [] (Relative path)
 
 Ejemplo:
-![](Hola-Mundo\imagenes\pythonLOGO.png)
+![](https://github.com/BrendaRosasE/Hola-Mundo/blob/main/imagenes/pythonLOGO.png)
 
 Hemos insertado una nueva imágen!!!
+
+####Recordatorio
+Los pasos para iniciar un repositorio desde la linea de comando son:
+- git init (Inicia le repositorio de git)
+- git add . (o README.md depende)
+- git commit -m "nombre del commit"
+- git branch -M main
+- git remote add origin (link del repo)
+- git push origin main
+
+Para subir los cambios en tu repositorio:
+- git add . (para agregar todo o en lugar del punto es ./archivo)
+- git commit -m "nombre del commit"
+- git push origin main
 
