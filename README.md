@@ -40,7 +40,8 @@ Si realizaste cambios en el repositorio desde github primero debes jalar la info
 
 ---
 ##### NOTA 2
-El submódulo se agregó
+El submódulo se agregó:
+
 Este repositorio se agregó como un submódulo con el comando:
 git submodule add https://github.com/FernandaOchoa/CursoIntroPython.git
 *NO es de mi propiedad*
