@@ -37,3 +37,10 @@ Para subir los cambios en tu repositorio:
 Si realizaste cambios en el repositorio desde github primero debes jalar la información para actualizar el archivo en tu computadora:
 
 - git pull (link del repo)
+
+---
+##### NOTA 2
+El submódulo se agregó
+Este repositorio se agregó como un submódulo con el comando:
+git submodule add https://github.com/FernandaOchoa/CursoIntroPython.git
+*NO es de mi propiedad*
